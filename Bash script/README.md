@@ -1,3 +1,9 @@
+This repo is taken from: 
+
+https://github.com/yoonustehrani/automating-bash-script
+
+<br>
+
 # Automating bash script
 
 You can use this script to create and manage a systemd-based service to automate running a bash script based on systemd timers.
