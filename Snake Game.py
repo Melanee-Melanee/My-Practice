@@ -12,7 +12,7 @@ import pygame, sys, time, random
 # Hard      ->  40
 # Harder    ->  60
 # Impossible->  120
-difficulty = 25
+difficulty = 10
 
 # Window size
 frame_size_x = 720
@@ -167,4 +167,5 @@ while True:
     # Refresh game screen
     pygame.display.update()
     # Refresh rate
+
     fps_controller.tick(difficulty)
